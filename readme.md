@@ -37,7 +37,7 @@ You are not allowed to add any other elements to the html file, which means that
 
 ###Random Colors
 
-On a new branch called `randomcolors`, implement the following changes:
+On a new branch called `randomcolors`, implement the following changes
 
 1. Instead of being either red or black, each tile should be a random color.  How do you generate random colors?  You can use RGB or Hexadecimal as your color system.
 
